@@ -1,4 +1,3 @@
-
 # NICOG - Nature Inspired Computing Optimization Group (NICOG)
 
 The NICOG research group focuses on solving real-world problems using machine learning and optimisation techniques that take analogies from nature such as genetic algorithms and neural networks. The current focus areas of the group included:
